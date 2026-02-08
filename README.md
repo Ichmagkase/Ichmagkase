@@ -11,4 +11,4 @@ I enjoy building tools and platforms that meet demand. My current interests are 
 | :--- | :--- |
 | **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,tailwind&theme=dark) |
 | **Backend & DB** | ![Backend](https://skillicons.dev/icons?i=fastapi,spring,mongodb,postgres&theme=dark) |
-| **Infra & Tools** | ![Infra](https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,aws,githubactions,ansible&theme=dark) |
+| **Infra & Tools** | ![Infra](https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,aws,gcp,githubactions,ansible&theme=dark) |
