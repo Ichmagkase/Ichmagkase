@@ -9,6 +9,6 @@ I enjoy building tools and platforms that meet demand. My current interests are 
 **My favorite technologies:**
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,tailwind&theme=dark) |
+| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,astro&theme=dark) |
 | **Backend & DB** | ![Backend](https://skillicons.dev/icons?i=fastapi,spring,mongodb,postgres&theme=dark) |
 | **Infra & Tools** | ![Infra](https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,aws,gcp,firebase,githubactions,ansible&theme=dark) |
